@@ -1,0 +1,27 @@
+::-webkit-scrollbar{
+   width: 10px;
+}
+::-webkit-scrollbar-track{
+   background-color: dimgray;
+}
+::-webkit-scrollbar-button{
+   background-color: black;
+}
+::-webkit-scrollbar-thumb{
+   background-color: darkseagreen;
+   border-radius: 20px;
+}     
+::-webkit-scrollbar-thumb:hover{
+   background-color: deepskyblue;
+}
+p{
+    color: blue;
+}
+
+.bg{
+    background-image:url("imagemdefundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
